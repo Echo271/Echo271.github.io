@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Gudea:wght@400;700&display=swap');
+
+h1 {
+    color: #F6C90E;
+    font-weight: bold;
+}
+
+h3, h4, h5, p{
+    font-family: 'Gudea', sans-serif;
+    color: #EEEEEE;
+}
+
+h3 {
+    font-size: 36px;
+    font-weight: bold;
+    padding: 20px;
+}
+
+
+
+body {
+    background-color: #303841;
+}
+
+.navbar a{
+    color: #EEEEEE;
+}
+
+.about, .service, .contact {
+    background-color: #3A4750;
+}
+
+.propic img{
+    width: 600px;
+    height: 800px;
+    filter: grayscale();
+}
+
+.picture img{
+    width: 400px;
+    height: 400px;
+    filter: grayscale();
+}
+
+.edu img{
+    width: 75px;
+    height: 75px;
+}
+
+.service img{
+    width: 100px;
+    height: 100px;
+}
+
+.content-service div{
+    width: 200px;
+}
+
+.content-service h4{
+    text-align: center;
+}
+
+.content-service p{
+    text-align: center;
+    background-color: #303841;
+    padding: 10px;
+    border-radius: 20%;
+}
+
+.content-skill h5{
+    font-weight: bold;
+    color: #F6C90E;
+}
+
+.progress-bar{
+    background-color: #F6C90E;
+    color: #303841;
+    font-weight: bold;
+}
+
+.sosmed a{
+    text-decoration: none;
+}
+
+.sosmed svg{
+    color: #F6C90E;
+}
+
+.gettouch button{
+    margin: 5px;
+    border-radius: 15%;
+    background-color: #F6C90E;
+    color :#303841;
+    border-style: none;
+    font-weight: bold;
+}
+
+.gettouch input,textarea{
+    border-style: none;
+}
+
+.logo h4{
+    color: #F6C90E;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.sub-footer a{
+    color: #EEEEEE;
+}
+
+.footer-list {
+    text-decoration: none;
+    list-style: none    ;
+}
+
+.last-footer {
+    background-color: #3A4750;
+    padding-top: 10px;
+}

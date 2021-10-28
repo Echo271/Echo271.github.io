@@ -1,0 +1,34 @@
+.navbar a:hover{
+    color: #F6C90E;
+    border-color: #F6C90E;
+    border: solid 2px;
+    padding: 5px;
+    border-radius: 25%;
+}
+
+.footer-list a:hover{
+    color: #F6C90E;
+}
+
+.content-edu img:hover {
+    background-color: #EEEEEE;
+    padding: 5px;
+    border-radius: 50%;
+}
+
+.content-service img:hover {
+    background-color: #EEEEEE;
+    padding: 5px;
+    border-radius: 50%;
+}
+
+.lvl:hover{
+    background-color: #3A4750;
+    padding: 10px;
+    border-radius: 20%;
+} 
+
+.gettouch button:hover{
+    background-color: #303841;
+    color : #F6C90E;
+}

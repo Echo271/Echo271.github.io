@@ -1,0 +1,108 @@
+@media only screen and (max-width: 700px) {
+    header{
+        background-color: #3A4750;
+    }
+    
+    .main-content {
+        width: 100%;
+        margin-left: 10px;
+    }
+
+    .header {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .navbar-ul {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .navbar-ul li{
+        padding: 10px;
+    }
+
+    .headline {
+        display: flex;
+        flex-direction: column-reverse;
+        margin-top: 100px;
+    }
+
+    #about, #skill, #edu, #service {
+        padding-top: 100px;
+    }
+
+    .propic img{
+       margin-left: 75px;
+    }
+
+    .content-about {
+        flex-direction: column;
+    }
+
+    .content-edu{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    
+    .content-edu {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+    .content-service {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        align-items: center;
+    }
+    
+    .content-skill {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .content-skill h5 {
+        padding-top: 10px;
+        padding-bottom: 5px;
+    }
+
+    .content-skill p {
+        text-align: center;
+    }
+    
+    .content-contact {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .sosmed{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    }
+    
+    .sosmed p{
+        padding-left: 10px;
+    }
+
+    .gettouch h4 {
+        text-align: center;
+    }
+
+    .main-footer{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .logo h4 {
+        text-align: center;
+    }
+
+    .footer-list{
+        display: flex;
+        flex-direction: row;
+    }
+}
